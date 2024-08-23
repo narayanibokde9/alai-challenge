@@ -15,7 +15,7 @@ Your task is to create a timeline component using TLDraw, similar to the one fou
    then the timeline element should show that many number of elements.
 
 ## My Solution
-![image](https://github.com/user-attachments/assets/1240359a-1f46-4485-997f-864ebb542aad)
+![Screenshot 2024-08-15 185615](https://github.com/user-attachments/assets/879cb5ed-a0fb-4fcc-adbf-2c9fd5e7db70)
 
 1. Taking input from the input box, each line defining either the heading or the description of the event.
 2. For the timeline, understanding how to create the entire diagram with the help of elements like text boxes, lines and ellipses.
